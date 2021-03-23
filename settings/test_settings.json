@@ -1,0 +1,13 @@
+{
+  "url": "https://login.salesforce.com/?locale=au",
+  "browser": "chrome",
+  "driver_timeout": "5",
+  "password": "123_",
+  "wait_time": "4",
+  "jira_server": "https://jira.atlassian.net",
+  "jira_user": "raghwendra.sonu@test.com.au",
+  "jira_password": "gSCs9ivCplHksd7cCTgZ252E",
+   "update_jira": false,
+   "proxy": "127.0.0.1:9000",
+   "use_proxy": false
+}
