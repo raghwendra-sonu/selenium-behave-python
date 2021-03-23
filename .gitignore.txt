@@ -1,9 +1,0 @@
-/target/
-/libspecs/
-/.settings/
-!**/__pycache__/
-/allure/
-/.idea/
-/logs/
-/reports/
-/temp/
